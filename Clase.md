@@ -479,11 +479,11 @@ Clase has built-in garbage collector
 * It has variable declaration ` int i ` from **C++** and blocks that are explicit and self-closing with pipes are from **Common Lisp** multi-line comments:
 
 ```Common Lisp
-%|
+#|
 ....
 ....
 
-|%
+|#
 
 ```
 
