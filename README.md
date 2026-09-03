@@ -497,3 +497,4 @@ in > a b > Euclid > out
 cin >> a >> b 
 cout << Euclid(a, b)
 ```
+[email](zema58@proton.me)
